@@ -1,0 +1,68 @@
+[
+  // Social Media Apps
+  "com.facebook.katana",
+  "com.instagram.android",
+  "com.whatsapp",
+  "com.facebook.orca",
+  "com.snapchat.android",
+  "com.twitter.android",
+  "com.linkedin.android",
+  "com.reddit.frontpage",
+  "org.telegram.messenger",
+  "com.instagram.barcelona",
+  "com.zhiliaoapp.musically",
+  "com.google.android.youtube",
+  "com.pinterest",
+  "com.alphaexplorationclub.house",
+  "com.bereal.ft",
+
+  // Chinese Apps
+  "com.tencent.mm",
+  "com.tencent.mobileqq",
+  "com.alibaba.aliexpresshd",
+  "com.shein.shopping",
+  "video.like",
+  "com.kwai.video",
+  "com.UCMobile.intl",
+  "com.lenovo.anyshare.gps",
+  "com.quvideo.xiaoying",
+  "com.mi.global.shop",
+  "com.intsig.camscanner",
+  "com.sina.weibo",
+  "com.baidu.searchbox",
+  "cn.xender",
+
+  // Trading & Stock Market Apps
+  "com.zerodha.kite3",                  // Zerodha Kite
+  "com.upstox.pro",                     // Upstox
+  "com.paytm.money",                    // Paytm Money
+  "com.groww.app",                      // Groww
+  "com.angelbroking.smartapi",         // Angel One
+  "com.sharekhan.sharekhan",           // Sharekhan
+  "com.icicidirect.mobile",            // ICICI Direct
+  "com.hdfcsecurities.hdfcsec",        // HDFC Securities
+  "com.axis.direct",                   // Axis Direct
+  "com.binance.dev",                   // Binance
+  "com.coinbase.android",              // Coinbase
+  "com.wazirx.android",                // WazirX
+  "com.okinc.okex.gp",                 // OKX (formerly OKEx)
+  "com.huobi.client",                  // Huobi
+  "com.fyers.fyers",                   // Fyers
+
+  // Popular Gaming Apps
+  "com.pubg.imobile",                  // PUBG Mobile (Global)
+  "com.tencent.ig",                    // PUBG Mobile (India - BGMI)
+  "com.dts.freefireth",                // Free Fire
+  "com.supercell.clashofclans",       // Clash of Clans
+  "com.supercell.brawlstars",         // Brawl Stars
+  "com.supercell.clashroyale",        // Clash Royale
+  "com.activision.callofduty.shooter",// Call of Duty Mobile
+  "com.epicgames.fortnite",           // Fortnite
+  "com.mojang.minecraftpe",           // Minecraft
+  "com.king.candycrushsaga",          // Candy Crush Saga
+  "com.mobile.legends",               // Mobile Legends
+  "com.nianticlabs.pokemongo",        // Pokémon GO
+  "jp.konami.pesam",                  // eFootball (PES)
+  "com.roblox.client",                // Roblox
+  "com.riotgames.league.wildrift"     // League of Legends: Wild Rift
+]
