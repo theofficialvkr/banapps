@@ -1,5 +1,4 @@
 [
-  // Social Media Apps
   "com.facebook.katana",
   "com.instagram.android",
   "com.whatsapp",
@@ -15,8 +14,6 @@
   "com.pinterest",
   "com.alphaexplorationclub.house",
   "com.bereal.ft",
-
-  // Chinese Apps
   "com.tencent.mm",
   "com.tencent.mobileqq",
   "com.alibaba.aliexpresshd",
@@ -31,38 +28,34 @@
   "com.sina.weibo",
   "com.baidu.searchbox",
   "cn.xender",
-
-  // Trading & Stock Market Apps
-  "com.zerodha.kite3",                  // Zerodha Kite
-  "com.upstox.pro",                     // Upstox
-  "com.paytm.money",                    // Paytm Money
-  "com.groww.app",                      // Groww
-  "com.angelbroking.smartapi",         // Angel One
-  "com.sharekhan.sharekhan",           // Sharekhan
-  "com.icicidirect.mobile",            // ICICI Direct
-  "com.hdfcsecurities.hdfcsec",        // HDFC Securities
-  "com.axis.direct",                   // Axis Direct
-  "com.binance.dev",                   // Binance
-  "com.coinbase.android",              // Coinbase
-  "com.wazirx.android",                // WazirX
-  "com.okinc.okex.gp",                 // OKX (formerly OKEx)
-  "com.huobi.client",                  // Huobi
-  "com.fyers.fyers",                   // Fyers
-
-  // Popular Gaming Apps
-  "com.pubg.imobile",                  // PUBG Mobile (Global)
-  "com.tencent.ig",                    // PUBG Mobile (India - BGMI)
-  "com.dts.freefireth",                // Free Fire
-  "com.supercell.clashofclans",       // Clash of Clans
-  "com.supercell.brawlstars",         // Brawl Stars
-  "com.supercell.clashroyale",        // Clash Royale
-  "com.activision.callofduty.shooter",// Call of Duty Mobile
-  "com.epicgames.fortnite",           // Fortnite
-  "com.mojang.minecraftpe",           // Minecraft
-  "com.king.candycrushsaga",          // Candy Crush Saga
-  "com.mobile.legends",               // Mobile Legends
-  "com.nianticlabs.pokemongo",        // Pokémon GO
-  "jp.konami.pesam",                  // eFootball (PES)
-  "com.roblox.client",                // Roblox
-  "com.riotgames.league.wildrift"     // League of Legends: Wild Rift
+  "com.zerodha.kite3",               
+  "com.upstox.pro",                     
+  "com.paytm.money",                    
+  "com.groww.app",                      
+  "com.angelbroking.smartapi",         
+  "com.sharekhan.sharekhan",           
+  "com.icicidirect.mobile",            
+  "com.hdfcsecurities.hdfcsec",      
+  "com.axis.direct",                   
+  "com.binance.dev",                  
+  "com.coinbase.android",              
+  "com.wazirx.android",                
+  "com.okinc.okex.gp",                
+  "com.huobi.client",                  
+  "com.fyers.fyers",                   
+  "com.pubg.imobile",                  
+  "com.tencent.ig",                 
+  "com.dts.freefireth",              
+  "com.supercell.clashofclans",       
+  "com.supercell.brawlstars",         
+  "com.supercell.clashroyale",        
+  "com.activision.callofduty.shooter",
+  "com.epicgames.fortnite",           
+  "com.mojang.minecraftpe",          
+  "com.king.candycrushsaga",          
+  "com.mobile.legends",               
+  "com.nianticlabs.pokemongo",        
+  "jp.konami.pesam",                  
+  "com.roblox.client",                
+  "com.riotgames.league.wildrift"     
 ]
