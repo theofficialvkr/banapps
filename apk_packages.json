@@ -195,5 +195,6 @@
   {"app_name": "OLX", "package_name": "com.olx.southasia"},
   {"app_name": "Quikr", "package_name": "com.quikr"},
   {"app_name": "Turbo VPN", "package_name": "free.vpn.unblock.proxy.turbovpn"},
-  {"app_name": "Proxy Master", "package_name": "org.proxymaster.firefox"}
+  {"app_name": "Proxy Master", "package_name": "org.proxymaster.firefox"},
+  {"app_name": "WhatsApp", "package_name": "com.whatsapp"}
 ]
